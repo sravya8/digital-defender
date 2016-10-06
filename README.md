@@ -1,5 +1,6 @@
 # digital-defender
 This is the repo to collaborate on Thorn-Cloudera's project at OSD- GHC16. Please create a folder with your team name, add your work there and submit a pull request.
+Here is the project description page: http://systers.org/wiki/communities/doku.php?id=wiki:ghc:ghc16:osd:cloudera
 
 ## Data Sets:
 Sanitized Chat Data over a few months for 2 chat rooms
