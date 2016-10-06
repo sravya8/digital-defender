@@ -14,19 +14,19 @@ Sanitized Chat Data over a few months for 2 chat rooms
 
 ## Guiding Questions
 1. UI/UX
-..* Landing page show high level overview: chat room stats, top user table, includes search
-..* Views: user profile, content, network analysis
+  * Landing page show high level overview: chat room stats, top user table, includes search
+  * Views: user profile, content, network analysis
 2. Data Insights
-..1 Messages over time per chat room
-..2 User Stats:
-....* distributions by: # messages, # unique links posted
-....* Top Users:
-....* post patterns, num of original links posted
-..3. Content Stats:
-....* Most popular content, distribution of content by popularity
-....* How often is new content posted?
-..4. Network
-....* Who talks to who? graph analysis to rank users? do sub communities exist?
+  1. Messages over time per chat room
+  2. User Stats:
+    * distributions by: # messages, # unique links posted
+    * Top Users:
+    * post patterns, num of original links posted
+  3. Content Stats:
+    * Most popular content, distribution of content by popularity
+    * How often is new content posted?
+  4. Network
+    * Who talks to who? graph analysis to rank users? do sub communities exist?
 
 ## Tools
 Javascript, React, Python (numpy, scipy, pandas, networkx), Jupyter notebooks, git
